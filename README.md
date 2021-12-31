@@ -3,9 +3,6 @@ Antikythera-Mechanism
 
 An emulator of Antikythera's Mechanism in two distances
 
-Application also runs on the below URL:
-http://theosotr.github.io/
-
 Executes the following operations:
 1) Lunisolar operation which activates all mechanism's gears that are responsible for the Callipic Calendar, Metonic Calendar and Olympiad output.
 2) Lunar operation which activates all mechanism's gear that produce Sidereal Month output.
